@@ -70,6 +70,7 @@ div:target {
   display: inline-flex;
   flex-wrap:nowrap;
   justify-content: space-between;
+  padding: 2em auto;
 }
 #images img{
   width: 20vw;
