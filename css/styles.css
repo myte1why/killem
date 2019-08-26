@@ -68,8 +68,8 @@ div:target {
 #images{
 	background: grey;
   display: inline-flex;
-  flex-wrap:nowrap;
-  justify-content: space-between;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
   padding: 2em auto;
 }
 #images img{
